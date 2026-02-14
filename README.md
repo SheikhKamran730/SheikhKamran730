@@ -85,10 +85,10 @@ I design and engineer:
 
 ## 🌐 PROFESSIONAL LINKS
 
-- 🌍 Portfolio: https://sheikhkamran730.github.io/Portfolio_Kamran/
+- 🌍 Portfolio:[ https://sheikhkamran730.github.io/Portfolio_Kamran/](https://sheikhkamran730.github.io/kamranportfolio/)
 - 💻 GitHub: https://github.com/SheikhKamran730
-- 🔗 LinkedIn: (Add Link)
-- 📧 Email: your-email@example.com
+- 🔗 LinkedIn: linkedin.com/in/kamran-munir-341967325
+- 📧 Email: shkamran730@gmail.com
 
 ---
 
