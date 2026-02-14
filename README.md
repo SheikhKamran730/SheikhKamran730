@@ -1,100 +1,104 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">KAMRAN MUNIR</h1>
-<h3 align="center">Senior Unity Game Developer • 2D & 3D Systems • Mobile & Desktop</h3>
+<h1 align="center">
+  <span style="color:#00F5FF;">KAMRAN</span>
+  <span style="color:#9D00FF;">MUNIR</span>
+</h1>
+
+<h3 align="center">
+  <span style="color:#C9D1D9;">
+    Senior Unity Game Developer • Gameplay Systems Engineer
+  </span>
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity" />
-  <img src="https://img.shields.io/badge/Language-C%23-512BD4?style=for-the-badge&logo=csharp" />
-  <img src="https://img.shields.io/badge/Focus-Gameplay%20Systems-0f0f0f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-00F5FF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Engine-Unity-9D00FF?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C%23-00F5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Gameplay%20Architecture-9D00FF?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎮 PROFILE
+## 🎮 <span style="color:#00F5FF;">PROFILE</span>
 
 Professional Unity Game Developer with **3.5+ years of production experience** building scalable, optimized, and monetization-ready games across Android, iOS, and PC.
 
-I design and implement **high-performance gameplay systems**, AI logic, interactive mechanics, and modular architectures aligned with industry production standards.
+I design and implement:
 
-> I build systems — not just features.
+- High-performance gameplay systems  
+- AI-driven behavioral logic  
+- Modular, scalable architecture  
+- Production-ready monetization pipelines  
 
----
-
-## 🧠 CORE EXPERTISE
-
-- Advanced Gameplay Systems Architecture  
-- AI & NavMesh-Based Behavioral Systems  
-- Raycast-Driven Interaction Frameworks  
-- Modular & Scalable Code Structures  
-- Performance Optimization (Mobile & Low-End Devices)  
-- Monetization Systems (AdMob, AppLovin MAX, IAP)  
-- Clean Production-Ready Code Practices  
+> <span style="color:#9D00FF;">I build systems engineered for performance — not just features.</span>
 
 ---
 
-## 🛠 TECH STACK
+## 🧠 <span style="color:#9D00FF;">CORE EXPERTISE</span>
+
+- Advanced Gameplay Systems  
+- NavMesh & AI Architecture  
+- Raycast Interaction Frameworks  
+- Event-Driven & Modular Code  
+- Mobile Performance Optimization  
+- Monetization Systems (AdMob, AppLovin MAX)  
+- Clean Production-Level C# Practices  
+
+---
+
+## 🛠 <span style="color:#00F5FF;">TECH STACK</span>
 
 ### Game Development
 - Unity 2D & 3D
 - C#
-- Object-Oriented Programming
+- OOP & Scalable Architecture
 - State Machines
-- Event-Driven Systems
-- PlayerPrefs & Local Data Management
-- URP / Built-in Rendering Pipeline
+- PlayerPrefs & Data Systems
+- URP / Built-in Pipeline
 
 ### Platform Expertise
 - Android Deployment
-- iOS Build Pipeline (Xcode Integration)
-- Store Submission & Optimization
-
-### Development Tools
-- Git & GitHub
-- Visual Studio
-- Blender (Basic)
-- Photoshop
+- iOS (Xcode Integration)
+- Store Publishing Pipelines
 
 ---
 
-## 🚀 SELECTED PROJECTS
+## 🚀 <span style="color:#9D00FF;">SELECTED PROJECTS</span>
 
 ### 🛒 Supermarket Simulation System
-- AI customer pathfinding using NavMesh
-- Raycast-based pickup & placement framework
-- Unlockable shelf progression system
-- Payment processing logic (cash & card)
-- Optimized for real-device performance
+- AI customer path system (NavMesh)
+- Raycast-based pickup & placement
+- Unlockable shelf progression
+- Cash & card payment logic
+- Mobile-optimized performance
 
 ---
 
-### 🍟 Multi-Stage 2D Cooking System
+### 🍟 Multi-Stage Cooking System
 - Structured gameplay phase architecture
-- Sorting, washing, peeling & frying logic
 - Modular script separation
-- Clean system-driven implementation
+- Clean & maintainable implementation
 
 ---
 
-### 🎡 Ad-Based Reward System
+### 🎡 Monetized Reward Framework
 - First-time free spin logic
-- Ad-triggered reward pipeline
-- Persistent coin system integration
-- Clean monetization-ready structure
+- Ad-triggered reward system
+- Persistent data integration
 
 ---
 
-## 📊 DEVELOPMENT METRICS
+## 📊 <span style="color:#00F5FF;">DEVELOPMENT METRICS</span>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SheikhKamran730&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhKamran730&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SheikhKamran730&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhKamran730&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 PROFESSIONAL LINKS
+## 🌐 <span style="color:#9D00FF;">PROFESSIONAL LINKS</span>
 
 - Portfolio: https://sheikhkamran730.github.io/Portfolio_Kamran/
 - GitHub: https://github.com/SheikhKamran730
@@ -103,13 +107,6 @@ I design and implement **high-performance gameplay systems**, AI logic, interact
 
 ---
 
-## 🎯 CURRENT FOCUS
-
-- Advanced AI System Design  
-- Scalable Architecture for Production Games  
-- Optimization Strategies for Mobile Hardware  
-- High-Level Gameplay Engineering  
-
----
-
-<h3 align="center">Building Production-Ready Game Systems with Precision & Performance.</h3>
+<h3 align="center" style="color:#00F5FF;">
+  Engineering Immersive Game Systems with Precision & Performance
+</h3>
