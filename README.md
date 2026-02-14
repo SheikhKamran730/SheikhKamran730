@@ -1,54 +1,56 @@
-<!-- Animated Header -->
-<h1 align="center">
-  🎮 Kamran Munir
-</h1>
+<!-- ================= HEADER ================= -->
 
-<h3 align="center">
-  Unity Game Developer | 2D & 3D | Mobile & Desktop
-</h3>
+<h1 align="center">KAMRAN MUNIR</h1>
+<h3 align="center">Senior Unity Game Developer • 2D & 3D Systems • Mobile & Desktop</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-00ffff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity" />
-  <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20PC-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-C%23-512BD4?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/Focus-Gameplay%20Systems-0f0f0f?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🎮 PROFILE
 
-🎯 Professional Unity developer with **3.5+ years of experience** building immersive and optimized games.
+Professional Unity Game Developer with **3.5+ years of production experience** building scalable, optimized, and monetization-ready games across Android, iOS, and PC.
 
-I specialize in:
+I design and implement **high-performance gameplay systems**, AI logic, interactive mechanics, and modular architectures aligned with industry production standards.
 
-- ⚡ Gameplay Systems & Mechanics  
-- 🧠 AI & NavMesh Systems  
-- 📱 Mobile Optimization  
-- 💰 Monetization Integration (AdMob, AppLovin MAX, IAP)  
-- 🏗️ Clean & Scalable Architecture  
-
-I build games that are smooth, optimized, and production-ready.
+> I build systems — not just features.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 CORE EXPERTISE
 
-### 🎮 Game Development
-- Unity (2D & 3D)
+- Advanced Gameplay Systems Architecture  
+- AI & NavMesh-Based Behavioral Systems  
+- Raycast-Driven Interaction Frameworks  
+- Modular & Scalable Code Structures  
+- Performance Optimization (Mobile & Low-End Devices)  
+- Monetization Systems (AdMob, AppLovin MAX, IAP)  
+- Clean Production-Ready Code Practices  
+
+---
+
+## 🛠 TECH STACK
+
+### Game Development
+- Unity 2D & 3D
 - C#
-- OOP & Modular Architecture
-- NavMesh AI
-- Raycasting Systems
-- PlayerPrefs & Local Save Systems
-- URP / Built-in Pipeline
+- Object-Oriented Programming
+- State Machines
+- Event-Driven Systems
+- PlayerPrefs & Local Data Management
+- URP / Built-in Rendering Pipeline
 
-### 📱 Mobile Development
-- Android & iOS Builds
-- Xcode Integration
-- Play Store & App Store Deployment
+### Platform Expertise
+- Android Deployment
+- iOS Build Pipeline (Xcode Integration)
+- Store Submission & Optimization
 
-### 🧰 Tools
+### Development Tools
 - Git & GitHub
 - Visual Studio
 - Blender (Basic)
@@ -56,70 +58,58 @@ I build games that are smooth, optimized, and production-ready.
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 SELECTED PROJECTS
 
-### 🛒 Supermarket Simulation Game
-- AI Customer Path System
-- Pickup & Drop Mechanics (Raycast-based)
-- Unlockable Shelves System
-- Cash & Card Payment Logic
-- Optimized for Mobile Devices
-
-### 🍟 2D Fries Cooking Game
-- Multi-Stage Cooking Mechanics
-- Sorting, Washing, Peeling & Frying
-- Clean Script Architecture
-- Performance Optimized
-
-### 🎡 Fortune Wheel System
-- Ad-Based Spin Feature
-- First-Time Free Spin Logic
-- Reward & Coin Integration
-- PlayerPrefs Data Saving
+### 🛒 Supermarket Simulation System
+- AI customer pathfinding using NavMesh
+- Raycast-based pickup & placement framework
+- Unlockable shelf progression system
+- Payment processing logic (cash & card)
+- Optimized for real-device performance
 
 ---
 
-## 🌐 Portfolio
-
-🔗 **Live Portfolio Website**  
-https://sheikhkamran730.github.io/Portfolio_Kamran/
+### 🍟 Multi-Stage 2D Cooking System
+- Structured gameplay phase architecture
+- Sorting, washing, peeling & frying logic
+- Modular script separation
+- Clean system-driven implementation
 
 ---
 
-## 📊 GitHub Analytics
+### 🎡 Ad-Based Reward System
+- First-time free spin logic
+- Ad-triggered reward pipeline
+- Persistent coin system integration
+- Clean monetization-ready structure
+
+---
+
+## 📊 DEVELOPMENT METRICS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SheikhKamran730&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhKamran730&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SheikhKamran730&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhKamran730&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 PROFESSIONAL LINKS
 
-<p align="center">
-  <a href="https://github.com/SheikhKamran730">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+- Portfolio: https://sheikhkamran730.github.io/Portfolio_Kamran/
+- GitHub: https://github.com/SheikhKamran730
+- LinkedIn: (Add Link)
+- Email: your-email@example.com
 
 ---
 
-## 🚀 Current Focus
+## 🎯 CURRENT FOCUS
 
-- Advanced AI Systems in Unity  
-- Performance Optimization Techniques  
-- Building High-Quality Mobile Game Systems  
-- Expanding Professional Game Portfolio  
+- Advanced AI System Design  
+- Scalable Architecture for Production Games  
+- Optimization Strategies for Mobile Hardware  
+- High-Level Gameplay Engineering  
 
 ---
 
-<h3 align="center">
-  💡 "Building Immersive & Optimized Game Experiences"
-</h3>
+<h3 align="center">Building Production-Ready Game Systems with Precision & Performance.</h3>
